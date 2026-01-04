@@ -1,7 +1,7 @@
 <br> <p align="center">![](https://komarev.com/ghpvc/?username=Litanchovy&label=𖦏&color=000000)</p>
 
 <p align="center">
-      <img height=350 src="https://files.catbox.moe/fd20q3.png">
+      <img height=450 src="https://files.catbox.moe/hwxti0.png">
     </p>
 
 <p align="center">
